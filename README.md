@@ -65,6 +65,11 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
 
+<img width="1366" height="688" alt="3" src="https://github.com/user-attachments/assets/3a8ffc12-1fc7-4c29-96f0-21f84bd06f07" />
+<img width="1363" height="593" alt="2" src="https://github.com/user-attachments/assets/aa274978-e3ab-4857-accb-92d98dcde005" />
+<img width="1007" height="697" alt="1" src="https://github.com/user-attachments/assets/ad49a864-8f8b-4499-8770-a141cbadb339" />
+
+
 ## Installation et Démarrage
 
 ### Prérequis
@@ -350,9 +355,7 @@ La console H2 permet de visualiser et manipuler directement les données en base
 - [ ] Migrer vers une base de données persistante (PostgreSQL, MySQL)
 
 ## Auteur
-
-Développé dans le cadre d'un projet d'apprentissage Spring Boot et REST APIs.
-
+Mohamed  Yacine Ouhadi
 ## Licence
 
 Ce projet est à des fins éducatives.
