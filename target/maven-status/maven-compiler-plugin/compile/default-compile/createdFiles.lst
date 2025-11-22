@@ -1,0 +1,5 @@
+ma\rest\spring\web\CompteController.class
+ma\rest\spring\entities\TypeCompte.class
+ma\rest\spring\entities\Compte.class
+ma\rest\spring\MsBanqueApplication.class
+ma\rest\spring\repositories\CompteRepository.class
